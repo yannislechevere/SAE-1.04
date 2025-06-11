@@ -1,0 +1,268 @@
+2025-01-07 12:53:35.735 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=1 dbId=22 dbName=relvar_141
+2025-01-07 12:53:35.741 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=1 scanned=2 dbId=22 dbName=relvar_141
+2025-01-07 12:54:27.961 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=2 dbId=24 dbName=relvar_156
+2025-01-07 12:54:27.963 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=2 scanned=0 dbId=24 dbName=relvar_156
+2025-01-07 12:54:38.372 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=3 dbId=26 dbName=relvar_159
+2025-01-07 12:54:38.373 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=3 scanned=0 dbId=26 dbName=relvar_159
+2025-01-07 12:54:55.593 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=4 dbId=28 dbName=relvar_162
+2025-01-07 12:54:55.595 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=4 scanned=0 dbId=28 dbName=relvar_162
+2025-01-07 12:58:47.755 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=5 dbId=30 dbName=relvar_165
+2025-01-07 12:58:47.756 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=5 scanned=0 dbId=30 dbName=relvar_165
+2025-01-07 13:01:59.437 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=6 dbId=32 dbName=relvar_170
+2025-01-07 13:01:59.438 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=6 scanned=0 dbId=32 dbName=relvar_170
+2025-01-07 13:03:39.234 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] Start DB remove/truncate scan, id=7 dbId=34 dbName=relvar_173
+2025-01-07 13:03:39.235 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2/Reldb] End DB remove/truncate scan, id=7 scanned=0 dbId=34 dbName=relvar_173
+2025-01-14 12:42:34.979 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=8 dbId=25 dbName=relvar_158
+2025-01-14 12:42:34.980 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=8 scanned=0 dbId=25 dbName=relvar_158
+2025-01-14 12:48:22.591 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=9 dbId=27 dbName=relvar_161
+2025-01-14 12:48:22.592 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=9 scanned=0 dbId=27 dbName=relvar_161
+2025-01-14 12:50:41.854 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=10 dbId=35 dbName=relvar_175
+2025-01-14 12:50:41.854 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=10 scanned=0 dbId=35 dbName=relvar_175
+2025-01-14 12:50:41.859 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=11 dbId=29 dbName=relvar_164
+2025-01-14 12:50:41.859 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=11 scanned=0 dbId=29 dbName=relvar_164
+2025-01-14 12:50:41.862 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=12 dbId=33 dbName=relvar_172
+2025-01-14 12:50:41.862 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=12 scanned=0 dbId=33 dbName=relvar_172
+2025-01-14 12:50:41.865 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=13 dbId=31 dbName=relvar_167
+2025-01-14 12:50:41.865 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=13 scanned=0 dbId=31 dbName=relvar_167
+2025-01-14 12:56:08.840 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=14 dbId=36 dbName=relvar_238
+2025-01-14 12:56:08.840 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=14 scanned=0 dbId=36 dbName=relvar_238
+2025-01-14 12:56:08.851 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=15 dbId=38 dbName=relvar_241
+2025-01-14 12:56:08.851 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=15 scanned=0 dbId=38 dbName=relvar_241
+2025-01-14 12:57:04.335 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=16 dbId=40 dbName=relvar_245
+2025-01-14 12:57:04.335 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=16 scanned=0 dbId=40 dbName=relvar_245
+2025-01-14 12:57:04.348 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=17 dbId=42 dbName=relvar_248
+2025-01-14 12:57:04.348 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=17 scanned=0 dbId=42 dbName=relvar_248
+2025-01-14 12:57:20.505 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=18 dbId=44 dbName=relvar_251
+2025-01-14 12:57:20.505 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=18 scanned=0 dbId=44 dbName=relvar_251
+2025-01-14 12:57:46.629 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=19 dbId=46 dbName=relvar_258
+2025-01-14 12:57:46.629 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=19 scanned=0 dbId=46 dbName=relvar_258
+2025-01-14 12:58:20.400 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=20 dbId=48 dbName=relvar_263
+2025-01-14 12:58:20.400 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=20 scanned=0 dbId=48 dbName=relvar_263
+2025-01-14 12:59:04.645 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=21 dbId=50 dbName=relvar_266
+2025-01-14 12:59:04.645 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=21 scanned=0 dbId=50 dbName=relvar_266
+2025-01-14 12:59:04.661 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=22 dbId=52 dbName=relvar_269
+2025-01-14 12:59:04.661 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=22 scanned=0 dbId=52 dbName=relvar_269
+2025-01-14 12:59:56.393 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=23 dbId=54 dbName=relvar_274
+2025-01-14 12:59:56.393 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=23 scanned=0 dbId=54 dbName=relvar_274
+2025-01-14 13:00:07.862 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=24 dbId=56 dbName=relvar_279
+2025-01-14 13:00:07.863 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=24 scanned=0 dbId=56 dbName=relvar_279
+2025-01-14 13:00:07.877 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=25 dbId=58 dbName=relvar_282
+2025-01-14 13:00:07.877 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=25 scanned=0 dbId=58 dbName=relvar_282
+2025-01-14 13:02:21.029 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=26 dbId=60 dbName=relvar_289
+2025-01-14 13:02:21.029 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=26 scanned=0 dbId=60 dbName=relvar_289
+2025-01-14 13:17:21.747 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=27 dbId=61 dbName=relvar_291
+2025-01-14 13:17:21.748 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=27 scanned=0 dbId=61 dbName=relvar_291
+2025-01-14 13:17:21.750 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=28 dbId=59 dbName=relvar_284
+2025-01-14 13:17:21.750 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=28 scanned=0 dbId=59 dbName=relvar_284
+2025-01-14 13:17:21.753 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=29 dbId=57 dbName=relvar_281
+2025-01-14 13:17:21.753 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=29 scanned=0 dbId=57 dbName=relvar_281
+2025-01-14 13:17:21.756 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=30 dbId=55 dbName=relvar_276
+2025-01-14 13:17:21.757 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=30 scanned=0 dbId=55 dbName=relvar_276
+2025-01-14 13:17:21.760 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=31 dbId=53 dbName=relvar_271
+2025-01-14 13:17:21.760 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=31 scanned=0 dbId=53 dbName=relvar_271
+2025-01-14 13:17:21.763 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=32 dbId=51 dbName=relvar_268
+2025-01-14 13:17:21.763 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=32 scanned=0 dbId=51 dbName=relvar_268
+2025-01-14 13:17:21.766 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=33 dbId=49 dbName=relvar_265
+2025-01-14 13:17:21.766 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=33 scanned=0 dbId=49 dbName=relvar_265
+2025-01-14 13:17:21.769 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=34 dbId=47 dbName=relvar_260
+2025-01-14 13:17:21.769 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=34 scanned=0 dbId=47 dbName=relvar_260
+2025-01-14 13:17:21.772 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=35 dbId=45 dbName=relvar_253
+2025-01-14 13:17:21.772 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=35 scanned=0 dbId=45 dbName=relvar_253
+2025-01-14 13:17:21.775 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=36 dbId=43 dbName=relvar_250
+2025-01-14 13:17:21.775 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=36 scanned=0 dbId=43 dbName=relvar_250
+2025-01-14 13:17:21.778 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=37 dbId=41 dbName=relvar_247
+2025-01-14 13:17:21.778 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=37 scanned=0 dbId=41 dbName=relvar_247
+2025-01-14 13:17:21.781 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=38 dbId=39 dbName=relvar_243
+2025-01-14 13:17:21.781 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=38 scanned=0 dbId=39 dbName=relvar_243
+2025-01-14 13:17:21.784 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=39 dbId=37 dbName=relvar_240
+2025-01-14 13:17:21.784 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=39 scanned=0 dbId=37 dbName=relvar_240
+2025-01-14 13:17:54.605 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=40 dbId=62 dbName=relvar_318
+2025-01-14 13:17:54.605 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=40 scanned=0 dbId=62 dbName=relvar_318
+2025-01-14 13:17:54.619 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=41 dbId=64 dbName=relvar_321
+2025-01-14 13:17:54.619 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=41 scanned=0 dbId=64 dbName=relvar_321
+2025-01-14 13:17:54.639 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=42 dbId=66 dbName=relvar_325
+2025-01-14 13:17:54.639 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=42 scanned=0 dbId=66 dbName=relvar_325
+2025-01-14 13:17:54.651 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=43 dbId=68 dbName=relvar_328
+2025-01-14 13:17:54.651 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=43 scanned=0 dbId=68 dbName=relvar_328
+2025-01-14 13:17:54.663 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=44 dbId=70 dbName=relvar_331
+2025-01-14 13:17:54.663 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=44 scanned=0 dbId=70 dbName=relvar_331
+2025-01-14 13:17:54.692 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=45 dbId=72 dbName=relvar_337
+2025-01-14 13:17:54.692 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=45 scanned=0 dbId=72 dbName=relvar_337
+2025-01-14 13:17:54.717 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=46 dbId=74 dbName=relvar_342
+2025-01-14 13:17:54.717 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=46 scanned=0 dbId=74 dbName=relvar_342
+2025-01-14 13:17:54.730 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=47 dbId=76 dbName=relvar_345
+2025-01-14 13:17:54.731 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=47 scanned=0 dbId=76 dbName=relvar_345
+2025-01-14 13:17:54.743 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=48 dbId=78 dbName=relvar_348
+2025-01-14 13:17:54.743 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=48 scanned=0 dbId=78 dbName=relvar_348
+2025-01-14 13:17:54.768 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=49 dbId=80 dbName=relvar_353
+2025-01-14 13:17:54.768 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=49 scanned=0 dbId=80 dbName=relvar_353
+2025-01-14 13:17:54.795 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=50 dbId=82 dbName=relvar_358
+2025-01-14 13:17:54.795 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=50 scanned=0 dbId=82 dbName=relvar_358
+2025-01-14 13:17:54.808 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=51 dbId=84 dbName=relvar_361
+2025-01-14 13:17:54.808 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=51 scanned=0 dbId=84 dbName=relvar_361
+2025-01-14 13:17:54.837 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=52 dbId=86 dbName=relvar_366
+2025-01-14 13:17:54.837 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=52 scanned=0 dbId=86 dbName=relvar_366
+2025-01-14 13:19:58.320 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=53 dbId=87 dbName=relvar_368
+2025-01-14 13:19:58.320 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=53 scanned=0 dbId=87 dbName=relvar_368
+2025-01-14 13:19:58.324 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=54 dbId=85 dbName=relvar_363
+2025-01-14 13:19:58.325 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=54 scanned=0 dbId=85 dbName=relvar_363
+2025-01-14 13:19:58.328 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=55 dbId=83 dbName=relvar_360
+2025-01-14 13:19:58.328 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=55 scanned=0 dbId=83 dbName=relvar_360
+2025-01-14 13:19:58.332 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=56 dbId=81 dbName=relvar_355
+2025-01-14 13:19:58.332 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=56 scanned=0 dbId=81 dbName=relvar_355
+2025-01-14 13:19:58.336 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=57 dbId=79 dbName=relvar_350
+2025-01-14 13:19:58.336 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=57 scanned=0 dbId=79 dbName=relvar_350
+2025-01-14 13:19:58.339 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=58 dbId=77 dbName=relvar_347
+2025-01-14 13:19:58.339 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=58 scanned=0 dbId=77 dbName=relvar_347
+2025-01-14 13:19:58.343 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=59 dbId=75 dbName=relvar_344
+2025-01-14 13:19:58.343 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=59 scanned=0 dbId=75 dbName=relvar_344
+2025-01-14 13:19:58.346 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=60 dbId=73 dbName=relvar_339
+2025-01-14 13:19:58.346 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=60 scanned=0 dbId=73 dbName=relvar_339
+2025-01-14 13:19:58.349 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=61 dbId=71 dbName=relvar_333
+2025-01-14 13:19:58.349 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=61 scanned=0 dbId=71 dbName=relvar_333
+2025-01-14 13:19:58.353 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=62 dbId=69 dbName=relvar_330
+2025-01-14 13:19:58.353 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=62 scanned=0 dbId=69 dbName=relvar_330
+2025-01-14 13:19:58.357 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=63 dbId=67 dbName=relvar_327
+2025-01-14 13:19:58.357 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=63 scanned=0 dbId=67 dbName=relvar_327
+2025-01-14 13:19:58.360 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=64 dbId=65 dbName=relvar_323
+2025-01-14 13:19:58.360 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=64 scanned=0 dbId=65 dbName=relvar_323
+2025-01-14 13:19:58.364 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=65 dbId=63 dbName=relvar_320
+2025-01-14 13:19:58.364 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=65 scanned=0 dbId=63 dbName=relvar_320
+2025-01-14 13:20:57.362 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=66 dbId=88 dbName=relvar_391
+2025-01-14 13:20:57.362 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=66 scanned=0 dbId=88 dbName=relvar_391
+2025-01-14 13:20:57.376 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=67 dbId=90 dbName=relvar_394
+2025-01-14 13:20:57.376 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=67 scanned=0 dbId=90 dbName=relvar_394
+2025-01-14 13:20:57.395 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=68 dbId=92 dbName=relvar_398
+2025-01-14 13:20:57.396 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=68 scanned=0 dbId=92 dbName=relvar_398
+2025-01-14 13:20:57.411 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=69 dbId=94 dbName=relvar_401
+2025-01-14 13:20:57.411 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=69 scanned=0 dbId=94 dbName=relvar_401
+2025-01-14 13:20:57.424 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=70 dbId=96 dbName=relvar_404
+2025-01-14 13:20:57.424 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=70 scanned=0 dbId=96 dbName=relvar_404
+2025-01-14 13:20:57.458 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=71 dbId=98 dbName=relvar_410
+2025-01-14 13:20:57.458 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=71 scanned=0 dbId=98 dbName=relvar_410
+2025-01-14 13:20:57.485 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=72 dbId=100 dbName=relvar_415
+2025-01-14 13:20:57.485 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=72 scanned=0 dbId=100 dbName=relvar_415
+2025-01-14 13:20:57.497 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=73 dbId=102 dbName=relvar_418
+2025-01-14 13:20:57.497 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=73 scanned=0 dbId=102 dbName=relvar_418
+2025-01-14 13:20:57.510 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=74 dbId=104 dbName=relvar_421
+2025-01-14 13:20:57.510 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=74 scanned=0 dbId=104 dbName=relvar_421
+2025-01-14 13:20:57.537 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=75 dbId=106 dbName=relvar_426
+2025-01-14 13:20:57.537 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=75 scanned=0 dbId=106 dbName=relvar_426
+2025-01-14 13:20:57.564 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=76 dbId=108 dbName=relvar_431
+2025-01-14 13:20:57.564 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=76 scanned=0 dbId=108 dbName=relvar_431
+2025-01-14 13:20:57.577 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=77 dbId=110 dbName=relvar_434
+2025-01-14 13:20:57.577 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=77 scanned=0 dbId=110 dbName=relvar_434
+2025-01-14 13:20:57.607 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=78 dbId=112 dbName=relvar_439
+2025-01-14 13:20:57.607 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=78 scanned=0 dbId=112 dbName=relvar_439
+2025-01-14 13:22:57.186 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=79 dbId=113 dbName=relvar_441
+2025-01-14 13:22:57.187 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=79 scanned=0 dbId=113 dbName=relvar_441
+2025-01-14 13:22:57.191 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=80 dbId=111 dbName=relvar_436
+2025-01-14 13:22:57.191 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=80 scanned=0 dbId=111 dbName=relvar_436
+2025-01-14 13:22:57.195 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=81 dbId=109 dbName=relvar_433
+2025-01-14 13:22:57.195 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=81 scanned=0 dbId=109 dbName=relvar_433
+2025-01-14 13:22:57.199 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=82 dbId=107 dbName=relvar_428
+2025-01-14 13:22:57.199 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=82 scanned=0 dbId=107 dbName=relvar_428
+2025-01-14 13:22:57.204 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=83 dbId=105 dbName=relvar_423
+2025-01-14 13:22:57.204 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=83 scanned=0 dbId=105 dbName=relvar_423
+2025-01-14 13:22:57.208 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=84 dbId=103 dbName=relvar_420
+2025-01-14 13:22:57.209 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=84 scanned=0 dbId=103 dbName=relvar_420
+2025-01-14 13:22:57.213 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=85 dbId=101 dbName=relvar_417
+2025-01-14 13:22:57.213 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=85 scanned=0 dbId=101 dbName=relvar_417
+2025-01-14 13:22:57.217 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=86 dbId=99 dbName=relvar_412
+2025-01-14 13:22:57.217 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=86 scanned=0 dbId=99 dbName=relvar_412
+2025-01-14 13:22:57.222 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=87 dbId=97 dbName=relvar_406
+2025-01-14 13:22:57.222 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=87 scanned=0 dbId=97 dbName=relvar_406
+2025-01-14 13:22:57.227 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=88 dbId=95 dbName=relvar_403
+2025-01-14 13:22:57.227 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=88 scanned=0 dbId=95 dbName=relvar_403
+2025-01-14 13:22:57.231 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=89 dbId=93 dbName=relvar_400
+2025-01-14 13:22:57.231 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=89 scanned=0 dbId=93 dbName=relvar_400
+2025-01-14 13:22:57.235 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=90 dbId=91 dbName=relvar_396
+2025-01-14 13:22:57.235 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=90 scanned=0 dbId=91 dbName=relvar_396
+2025-01-14 13:22:57.240 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=91 dbId=89 dbName=relvar_393
+2025-01-14 13:22:57.240 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=91 scanned=0 dbId=89 dbName=relvar_393
+2025-01-14 13:23:12.089 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=92 dbId=114 dbName=relvar_460
+2025-01-14 13:23:12.089 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=92 scanned=0 dbId=114 dbName=relvar_460
+2025-01-14 13:23:12.102 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] Start DB remove/truncate scan, id=93 dbId=116 dbName=relvar_463
+2025-01-14 13:23:12.102 UTC INFO [/home/etuinfo/archauvel/Documents/SAE104/Partie2/Reldb] End DB remove/truncate scan, id=93 scanned=0 dbId=116 dbName=relvar_463
+2025-01-18 11:10:31.744 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=94 dbId=115 dbName=relvar_462
+2025-01-18 11:10:31.748 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=94 scanned=0 dbId=115 dbName=relvar_462
+2025-01-18 11:10:51.906 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=95 dbId=117 dbName=relvar_465
+2025-01-18 11:10:51.908 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=95 scanned=0 dbId=117 dbName=relvar_465
+2025-01-18 11:11:15.112 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=96 dbId=118 dbName=relvar_497
+2025-01-18 11:11:15.113 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=96 scanned=0 dbId=118 dbName=relvar_497
+2025-01-18 11:11:15.129 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=97 dbId=120 dbName=relvar_500
+2025-01-18 11:11:15.129 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=97 scanned=0 dbId=120 dbName=relvar_500
+2025-01-18 11:11:15.157 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=98 dbId=122 dbName=relvar_504
+2025-01-18 11:11:15.157 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=98 scanned=0 dbId=122 dbName=relvar_504
+2025-01-18 11:11:15.170 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=99 dbId=124 dbName=relvar_507
+2025-01-18 11:11:15.171 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=99 scanned=0 dbId=124 dbName=relvar_507
+2025-01-18 11:11:15.180 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=100 dbId=126 dbName=relvar_510
+2025-01-18 11:11:15.180 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=100 scanned=0 dbId=126 dbName=relvar_510
+2025-01-18 11:11:15.234 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=101 dbId=128 dbName=relvar_516
+2025-01-18 11:11:15.235 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=101 scanned=0 dbId=128 dbName=relvar_516
+2025-01-18 11:11:15.269 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=102 dbId=130 dbName=relvar_521
+2025-01-18 11:11:15.269 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=102 scanned=0 dbId=130 dbName=relvar_521
+2025-01-18 11:11:15.286 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=103 dbId=132 dbName=relvar_524
+2025-01-18 11:11:15.286 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=103 scanned=0 dbId=132 dbName=relvar_524
+2025-01-18 11:11:15.300 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=104 dbId=134 dbName=relvar_527
+2025-01-18 11:11:15.304 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=104 scanned=0 dbId=134 dbName=relvar_527
+2025-01-18 11:11:15.346 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=105 dbId=136 dbName=relvar_532
+2025-01-18 11:11:15.347 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=105 scanned=0 dbId=136 dbName=relvar_532
+2025-01-18 11:11:15.405 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=106 dbId=138 dbName=relvar_537
+2025-01-18 11:11:15.405 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=106 scanned=0 dbId=138 dbName=relvar_537
+2025-01-18 11:11:15.420 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=107 dbId=140 dbName=relvar_540
+2025-01-18 11:11:15.420 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=107 scanned=0 dbId=140 dbName=relvar_540
+2025-01-18 11:11:15.449 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=108 dbId=142 dbName=relvar_545
+2025-01-18 11:11:15.449 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=108 scanned=0 dbId=142 dbName=relvar_545
+2025-01-18 11:11:28.754 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=109 dbId=143 dbName=relvar_547
+2025-01-18 11:11:28.754 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=109 scanned=0 dbId=143 dbName=relvar_547
+2025-01-18 11:11:28.765 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=110 dbId=141 dbName=relvar_542
+2025-01-18 11:11:28.765 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=110 scanned=0 dbId=141 dbName=relvar_542
+2025-01-18 11:11:28.771 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=111 dbId=139 dbName=relvar_539
+2025-01-18 11:11:28.771 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=111 scanned=0 dbId=139 dbName=relvar_539
+2025-01-18 11:11:28.779 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=112 dbId=137 dbName=relvar_534
+2025-01-18 11:11:28.779 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=112 scanned=0 dbId=137 dbName=relvar_534
+2025-01-18 11:11:28.787 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=113 dbId=135 dbName=relvar_529
+2025-01-18 11:11:28.787 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=113 scanned=0 dbId=135 dbName=relvar_529
+2025-01-18 11:11:28.796 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=114 dbId=133 dbName=relvar_526
+2025-01-18 11:11:28.796 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=114 scanned=0 dbId=133 dbName=relvar_526
+2025-01-18 11:11:28.810 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=115 dbId=131 dbName=relvar_523
+2025-01-18 11:11:28.811 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=115 scanned=0 dbId=131 dbName=relvar_523
+2025-01-18 11:11:28.821 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=116 dbId=129 dbName=relvar_518
+2025-01-18 11:11:28.821 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=116 scanned=0 dbId=129 dbName=relvar_518
+2025-01-18 11:11:28.832 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=117 dbId=127 dbName=relvar_512
+2025-01-18 11:11:28.832 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=117 scanned=0 dbId=127 dbName=relvar_512
+2025-01-18 11:11:28.843 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=118 dbId=125 dbName=relvar_509
+2025-01-18 11:11:28.843 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=118 scanned=0 dbId=125 dbName=relvar_509
+2025-01-18 11:11:28.855 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=119 dbId=123 dbName=relvar_506
+2025-01-18 11:11:28.856 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=119 scanned=0 dbId=123 dbName=relvar_506
+2025-01-18 11:11:28.869 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=120 dbId=121 dbName=relvar_502
+2025-01-18 11:11:28.869 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=120 scanned=0 dbId=121 dbName=relvar_502
+2025-01-18 11:11:28.880 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=121 dbId=119 dbName=relvar_499
+2025-01-18 11:11:28.880 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=121 scanned=0 dbId=119 dbName=relvar_499
+2025-01-18 11:11:41.420 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=122 dbId=144 dbName=relvar_566
+2025-01-18 11:11:41.420 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=122 scanned=0 dbId=144 dbName=relvar_566
+2025-01-18 11:11:41.433 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=123 dbId=146 dbName=relvar_569
+2025-01-18 11:11:41.433 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=123 scanned=0 dbId=146 dbName=relvar_569
+2025-01-18 11:11:41.456 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=124 dbId=148 dbName=relvar_573
+2025-01-18 11:11:41.456 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=124 scanned=0 dbId=148 dbName=relvar_573
+2025-01-18 11:11:41.465 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=125 dbId=150 dbName=relvar_576
+2025-01-18 11:11:41.465 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=125 scanned=0 dbId=150 dbName=relvar_576
+2025-01-18 11:11:41.474 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=126 dbId=152 dbName=relvar_579
+2025-01-18 11:11:41.474 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=126 scanned=0 dbId=152 dbName=relvar_579
+2025-01-18 11:11:41.514 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=127 dbId=154 dbName=relvar_585
+2025-01-18 11:11:41.515 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=127 scanned=0 dbId=154 dbName=relvar_585
+2025-01-18 11:11:41.547 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=128 dbId=156 dbName=relvar_590
+2025-01-18 11:11:41.547 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=128 scanned=0 dbId=156 dbName=relvar_590
+2025-01-18 11:11:41.561 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=129 dbId=158 dbName=relvar_593
+2025-01-18 11:11:41.561 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=129 scanned=0 dbId=158 dbName=relvar_593
+2025-01-18 11:11:41.572 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=130 dbId=160 dbName=relvar_596
+2025-01-18 11:11:41.574 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=130 scanned=0 dbId=160 dbName=relvar_596
+2025-01-18 11:11:41.598 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=131 dbId=162 dbName=relvar_601
+2025-01-18 11:11:41.599 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=131 scanned=0 dbId=162 dbName=relvar_601
+2025-01-18 11:11:41.627 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=132 dbId=164 dbName=relvar_606
+2025-01-18 11:11:41.627 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=132 scanned=0 dbId=164 dbName=relvar_606
+2025-01-18 11:11:41.636 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=133 dbId=166 dbName=relvar_609
+2025-01-18 11:11:41.636 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=133 scanned=0 dbId=166 dbName=relvar_609
+2025-01-18 11:11:41.678 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] Start DB remove/truncate scan, id=134 dbId=168 dbName=relvar_614
+2025-01-18 11:11:41.678 UTC INFO [/Users/arthurchauvel/Desktop/cours/SAES/S104/Partie2 (1)/Reldb] End DB remove/truncate scan, id=134 scanned=0 dbId=168 dbName=relvar_614
