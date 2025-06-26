@@ -35,4 +35,4 @@ Il a été réalisé en **binôme** et se décompose en deux grandes parties, ch
 # ✍️ Réalisé par
 
 Projet réalisé en binôme :  
-**Yannis Lechevere** & **LE SECH Marceau**
+**LE CHEVERE Yannis** & **LE SECH Marceau**
