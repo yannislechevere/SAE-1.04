@@ -32,7 +32,7 @@ Il a été réalisé en **binôme** et se décompose en deux grandes parties, ch
 
 ---
 
-# ✍️ Réalisé par
+# Auteurs
 
 Projet réalisé en binôme :  
 **LE CHEVERE Yannis** & **LE SECH Marceau**
