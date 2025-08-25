@@ -14,7 +14,7 @@ Il a été réalisé en **binôme** et se décompose en deux grandes parties, ch
 >> - **Liste des dépendances fonctionnelles** permettant d’identifier les relations clés entre les différentes données du projet.
 >> - **Réalisation d’un diagramme de classes** pour visualiser la structure des données et les interactions majeures, facilitant la compréhension globale de la problématique.
 >>
->> 🔗 [Dossier Analyse & Modélisation](https://github.com/yannislechevere/SAE-1.04/tree/master/Partie1%20-%20Analyse%20du%20sujet%20et%20mod%C3%A9lisation)
+>> 📂 [Dossier Analyse & Modélisation](https://github.com/yannislechevere/SAE-1.04/tree/master/Partie1%20-%20Analyse%20du%20sujet%20et%20mod%C3%A9lisation)
 >
 > </details>
 
@@ -26,7 +26,7 @@ Il a été réalisé en **binôme** et se décompose en deux grandes parties, ch
 >> - **Reprise de l’analyse** pour établir le **graphe des contraintes d’intégrité référentielle** (clé primaire/étrangère, règles de cohérence).
 >> - **Création de la base de données** en utilisant le langage **Tutorial D**, avec toutes les tables, relations et contraintes définies précédemment.
 >>
->> 🔗 [Dossier Contraintes & Implémentation](https://github.com/yannislechevere/SAE-1.04/tree/master/Partie2%20-%20Contraintes%20d%E2%80%99int%C3%A9grit%C3%A9%20%26%20impl%C3%A9mentation)
+>> 📂 [Dossier Contraintes & Implémentation](https://github.com/yannislechevere/SAE-1.04/tree/master/Partie2%20-%20Contraintes%20d%E2%80%99int%C3%A9grit%C3%A9%20%26%20impl%C3%A9mentation)
 >
 > </details>
 
